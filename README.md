@@ -55,21 +55,21 @@
 
 ## Projects
 
-<a href="https://github.com/Nneji123/Website-Blocker">
+<!-- //<a href="https://github.com/Nneji123/Website-Blocker"> -->
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Website-Blocker&theme=tokyonight" />
+<!--   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Website-Blocker&theme=tokyonight" /> -->
 
-</a>  
+<!-- </a>   -->
 
-<a href="https://github.com/Nneji123/Alien-Shooter">
+<!-- <a href="https://github.com/Nneji123/Alien-Shooter"> -->
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=tokyonight" />
+<!--   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=tokyonight" /> -->
 
-</a> 
+<!-- </a>  -->
 
 
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
@@ -79,10 +79,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ifeanyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nneji123&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ifeanyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kacper-adamczyk&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nneji123&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nneji123" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kacper-adamczyk&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nneji123" height="192px"/>
   <br/>
   </p>
 </details>
@@ -91,7 +91,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/nneji123"><img alt="Ifeanyi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nneji123&custom_title=Ifeanyi's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/kacper-adamczyk"><img alt="Kacper Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kacper-adamczyk&custom_title=Kacper's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
@@ -99,7 +99,7 @@
 <br/>
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nneji123&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=kacper-adamczyk&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 
 
